@@ -4,7 +4,6 @@
   "description": "Medium stats viewer app with electron, react, and puppeteer",
   "license": "MIT",
   "private": false,
-  
   "homepage": "",
   "author": {
     "name": "Suppachai Thanrukprasert",
@@ -45,9 +44,11 @@
     "@fortawesome/free-solid-svg-icons": "^5.13.0",
     "@fortawesome/react-fontawesome": "^0.1.9",
     "custom-electron-titlebar": "^3.2.2-hotfix62",
+    "kind-of": "6.0.3",
     "puppeteer": "^3.2.0",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "set-value": "2.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
