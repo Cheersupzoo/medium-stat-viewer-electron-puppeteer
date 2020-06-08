@@ -48,7 +48,8 @@
     "puppeteer": "^3.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "set-value": "2.0.1"
+    "set-value": "2.0.1",
+    "websocket-extensions": "0.1.4"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
